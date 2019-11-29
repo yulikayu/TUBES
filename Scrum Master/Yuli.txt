@@ -1,0 +1,9 @@
+-Kamis 28 november-
+1. Buat apa hari ini ? 
+Melakukan git init pada githu
+
+2. Masalah Pada Hari ini?
+Kesulitan dalam melakukan repository file di github
+
+3. Apa yang akan di kerjakan besok?
+Membuat keterangan mengenai Google home
