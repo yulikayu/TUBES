@@ -7,3 +7,14 @@ Kesulitan dalam melakukan repository file di github
 
 3. Apa yang akan di kerjakan besok?
 Membuat keterangan mengenai Google home
+
+-Jumat 29 November
+
+1. Buat apa hari ini?
+nambah slide pengertian atau keterangan Google
+
+2. Masalah pada hari ini?
+ada 2 teman yang kesulitan dalam melakukan commit dan run 3 orang susah dalam melakukan gulp serve. sehingga susah melihat update file index nya
+
+3. Apa yang akan di kerjakan besok?
+Selanjutnya akan membuat slide "Kenapa harus pakek Google home dan Fitur apa yang yang di tawarkan oleh google home"
