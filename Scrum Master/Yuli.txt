@@ -18,3 +18,17 @@ ada 2 teman yang kesulitan dalam melakukan commit dan run 3 orang susah dalam me
 
 3. Apa yang akan di kerjakan besok?
 Selanjutnya akan membuat slide "Kenapa harus pakek Google home dan Fitur apa yang yang di tawarkan oleh google home"
+
+-Senin 2 Desember 2019-
+
+1. Buat apa hari ini?
+nambah slide Kenapa pakai google home dan bagaimana memberi intruksi pada google
+
+Memperbaharui installer node js, dari yang versi lama ke versi 10.17 di karenakan terjadi error pada saat gulp serve di laptop ke 3 anggota
+
+2. Masalah pada hari ini?
+pada saat melakukan instal dan commit terjadi redudansi data pada github
+
+
+3. Apa yang akan di kerjakan besok?
+Membuat slide kelebihan dari google home dan beberapa slide lainnya
