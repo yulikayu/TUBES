@@ -1,0 +1,11 @@
+-Senin 3 Desember 2019-
+
+1. Buat apa hari ini ? 
+Buat slide produk serupa dengan Google home,
+ Menyelesaikan masalah teknis 
+
+2. Masalah Pada Hari ini?
+Setelah mengalami kesulitan dalam commit dan run (gulp serve yang sudah di selesaikan) tidak ada masalah teknis lagi bu
+
+3. Apa yang akan di kerjakan besok?
+Menambah slide baru mengenai fitur yang bisa di terapkan dirumah
