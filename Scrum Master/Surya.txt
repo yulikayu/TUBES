@@ -1,4 +1,4 @@
--Senin 3 Desember 2019-
+-Selasa 3 Desember 2019-
 
 1. Buat apa hari ini ? 
 Buat slide produk serupa dengan Google home,
@@ -9,3 +9,23 @@ Setelah mengalami kesulitan dalam commit dan run (gulp serve yang sudah di seles
 
 3. Apa yang akan di kerjakan besok?
 Menambah slide baru mengenai fitur yang bisa di terapkan dirumah
+
+-Jumat 6 Desember 2019-
+1. Buat apa hari ini?
+Merapikan slide
+
+2. Masalah pada hari ini
+Tidak ada masalah, semuanya baik-baik saja.
+
+3. Apa yang dikerjakan besok?
+Menambahkan slide kelebihan google home dan dan bagaiman cara google home bekerja
+
+-Sabtu 7 Desember 2019-
+1. Buat apa hari ini?
+Membuat slide kelebihan google home dan bagaimana cara google home bekerja
+
+2. Masalah pada hari ini?
+tidak ada masalah, semuanya masih berjalan baik
+
+3. Apa yang dikerajakan besok?
+Membuat slide tentang generasi google home
